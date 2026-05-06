@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+sentence-transformers
+chromadb>=0.4.0
+google-generativeai
+pydantic>=2.0
+protobuf==4.25.3
+pymupdf
